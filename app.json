@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ReduxPersistTemplate",
+    "slug": "ReduxPersistTemplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ReduxPersistTemplate"
+}
